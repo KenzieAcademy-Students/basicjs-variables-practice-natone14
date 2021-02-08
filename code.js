@@ -11,7 +11,6 @@ console.log("Exercise One"); // Do not modify the lines like this before each ex
 //
 // Write your code here 👇
 console.log(16); 
-e14
 
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Two");
